@@ -22,5 +22,4 @@
     { "domain": "audiobook-shelf.enckliers.com", "answer": "192.168.1.190" },
     { "domain": "bazarr.enckliers.com", "answer": "192.168.1.190" },
     { "domain": "immich.enckliers.com", "answer": "192.168.1.190" },
-    { "domain": "prowlarr.enckliers.com", "answer": "192.168.1.190" }
   ]
