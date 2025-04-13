@@ -1,0 +1,28 @@
+||truenas.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
+||portainer.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.188
+
+# Docker Containers
+||adguard.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.13
+||actual-budget.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.2
+||qbittorrent.enckliers.com^$dnsrewrite=NOERROR;A;172.17.0.4
+||sabnzbd.enckliers.com^$dnsrewrite=NOERROR;A;172.17.0.4
+||embystat.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.3
+||homepage.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.4
+||jellyfin.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.5
+||jellyseerr.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.6
+||kavita.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.7
+||readarr-audiobooks.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.8
+||readarr-books.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.9
+||transmission-vpn.enckliers.com^$dnsrewrite=NOERROR;A;172.17.0.3
+||upsnap.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.188
+||uptime-kuma.enckliers.com^$dnsrewrite=NOERROR;A;172.30.0.10
+||watchtower.enckliers.com^$dnsrewrite=NOERROR;A;172.17.0.10
+
+# TrueNAS Apps
+||emby.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
+||sonarr.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
+||radarr.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
+||audiobook-shelf.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
+||bazarr.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
+||immich.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
+||prowlarr.enckliers.com^$dnsrewrite=NOERROR;A;192.168.1.190
